@@ -1,5 +1,4 @@
 import module1 from "./modules/module1";
-
 import module2 from "./modules/module2";
 
 //変数を定義します

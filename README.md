@@ -13,7 +13,7 @@
 
 5. webpack-cli のインストール
 
-   'npm install -g webpack-cli'
+   'npm install webpack-cli --save-dev'
 
 6. ローカルインストールした package（今回は webpack-cli）を実行するために PATH を通す
 
